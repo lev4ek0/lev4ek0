@@ -11,5 +11,7 @@
 ### You can contact me:
 
 [<img aligh="left" alt="Vk" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25684.png" />][vk]
+[<img aligh="left" alt="Telegram" width="26px" src="https://cdn-icons.flaticon.com/png/512/4701/premium/4701496.png?token=exp=1645027059~hmac=b16dc3c46ae096a07189b0913ebd239d" />][telegram]
 
 [vk]: https://vk.com/lev4ekr
+[telegram]: https://t.me/lev4ek
