@@ -1,4 +1,4 @@
-## Hello, I'm Lev Belous
+# Hello, I'm Lev Belous
 
 ### I'm backend python developer and 3rd year ITMO student
 
@@ -6,12 +6,30 @@
 
 ### Skills and tools
 
-<img aligh="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+[<img aligh="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
+[<img aligh="left" alt="postgesql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">][postgresql]
+[<img aligh="left" alt="django" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">][django]
+[<img aligh="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">][flask]
+[<img aligh="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">][linux]
+[<img aligh="left" alt="nginx" width="40px" src="https://hsto.org/webt/el/jb/k_/eljbk_b0wl5x6tfkpa334zfvqvs.png">][nginx]
 
-### You can contact me:
 
-[<img aligh="left" alt="Vk" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25684.png" />][vk]
-[<img aligh="left" alt="Telegram" width="26px" src="https://cdn-icons.flaticon.com/png/512/4701/premium/4701496.png?token=exp=1645027059~hmac=b16dc3c46ae096a07189b0913ebd239d" />][telegram]
+---
 
-[vk]: https://vk.com/lev4ekr
-[telegram]: https://t.me/lev4ek
+### My projects
+
+---
+
+### My contacts:
+
+[<img aligh="left" alt="Vk" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25684.png" />][vk]
+[<img aligh="left" alt="Telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/4701/premium/4701496.png?token=exp=1645027059~hmac=b16dc3c46ae096a07189b0913ebd239d" />][telegram]
+
+[vk]: https://vk.com/lev4ekr/
+[telegram]: https://t.me/lev4ek/
+[python]: https://www.python.org/
+[postgresql]: https://www.postgresql.org/
+[django]: https://www.djangoproject.com/
+[flask]: https://flask.palletsprojects.com/
+[linux]: https://www.linux.org/
+[nginx]: https://nginx.org/
