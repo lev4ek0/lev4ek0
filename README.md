@@ -18,6 +18,21 @@
 
 ### My projects
 
+1. Example of my code (django) <br>
+https://github.com/lev4ek0/liis/ <br>
+Simple backend app with auth and few endpoints
+2. Queue site <br>
+https://m33041.ml/ <br>
+Site for our group. Everyone can take a queue in one click.
+3. Django project <br>
+https://ritual-front-sigma.vercel.app/ <br>
+
+---
+
+### My CV
+
+![CV](https://i.imgur.com/LyEt7uP.png)
+
 ---
 
 ### My contacts:
