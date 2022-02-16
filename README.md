@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I'm Lev Belous
 
-<!--
-**lev4ek0/lev4ek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm backend python developer and 3rd year ITMO student
 
-Here are some ideas to get you started:
+### Skills and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img aligh="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+
+### You can contact me:
+
+[<img aligh="left" alt="Vk" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25684.png" />][vk]
+
+[vk]: https://vk.com/lev4ekr
