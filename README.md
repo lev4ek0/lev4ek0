@@ -38,7 +38,7 @@ https://ritual-front-sigma.vercel.app/ <br>
 ### My contacts:
 
 [<img aligh="left" alt="Vk" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25684.png" />][vk]
-[<img aligh="left" alt="Telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/4701/premium/4701496.png?token=exp=1645027059~hmac=b16dc3c46ae096a07189b0913ebd239d" />][telegram]
+[<img aligh="left" alt="Telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670044.png?token=exp=1645459451~hmac=b88501ac728b9ff7ceffc08b4780e4a6" />][telegram]
 
 [vk]: https://vk.com/lev4ekr/
 [telegram]: https://t.me/lev4ek/
