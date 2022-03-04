@@ -25,7 +25,7 @@ Simple backend app with auth and few endpoints
 https://github.com/lev4ek0/welbex/
 3. Example of my code (django) <br>
 https://imgur.com/a/49qyvcu <br>
-https://imgur.com/a/rTtt9xH
+https://imgur.com/a/BPjj7NH
 4. Queue site <br>
 https://m33041.ml/ <br>
 Site for our group. Everyone can take a queue in one click.
