@@ -24,10 +24,12 @@ Simple backend app with auth and few endpoints
 2. Example of my code (django) <br>
 https://github.com/lev4ek0/welbex/
 3. Example of my code (django) <br>
+https://imgur.com/a/49qyvcu
+https://imgur.com/a/kBJXC4P
 4. Queue site <br>
 https://m33041.ml/ <br>
 Site for our group. Everyone can take a queue in one click.
-4. Django project <br>
+5. Django project <br>
 https://ritual-front-sigma.vercel.app/ <br>
 
 ---
