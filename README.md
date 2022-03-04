@@ -23,9 +23,10 @@ https://github.com/lev4ek0/liis/ <br>
 Simple backend app with auth and few endpoints
 2. Example of my code (django) <br>
 https://github.com/lev4ek0/welbex/
+Simple fullstack app with table 
 3. Example of my code (django) <br>
-https://imgur.com/a/49qyvcu <br>
-https://imgur.com/a/BPjj7NH
+model - https://imgur.com/a/49qyvcu <br>
+view - https://imgur.com/a/BPjj7NH
 4. Queue site <br>
 https://m33041.ml/ <br>
 Site for our group. Everyone can take a queue in one click.
