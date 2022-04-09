@@ -12,32 +12,11 @@
 [<img aligh="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">][flask]
 [<img aligh="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">][linux]
 [<img aligh="left" alt="nginx" width="40px" src="https://hsto.org/webt/el/jb/k_/eljbk_b0wl5x6tfkpa334zfvqvs.png">][nginx]
+[<img aligh="left" alt="docker" width="40px" src="https://avatars.githubusercontent.com/u/11618900?v=4">][docker]
+[<img aligh="left" alt="celery" width="40px" src="https://storage.caktusgroup.com/media/blog-images/celery-django-queue-caktus-group.jpg">][celery]
+[<img aligh="left" alt="redis" width="40px" src="https://toppng.com/uploads/preview/redis-logo-11609374422bg2tijbhx4.png">][redis]
 
 
----
-
-### My projects
-
-1. Example of my code (django) <br>
-https://github.com/lev4ek0/liis/ <br>
-Simple backend app with auth and few endpoints
-2. Example of my code (django) <br>
-https://github.com/lev4ek0/welbex/
-Simple fullstack app with table 
-3. Example of my code (django) <br>
-model - https://imgur.com/a/49qyvcu <br>
-view - https://imgur.com/a/BPjj7NH
-4. Queue site <br>
-https://m33041.ml/ <br>
-Site for our group. Everyone can take a queue in one click.
-5. Django project <br>
-https://ritual-front-sigma.vercel.app/ <br>
-
----
-
-### My CV
-
-![CV](https://i.imgur.com/LyEt7uP.png)
 
 ---
 
