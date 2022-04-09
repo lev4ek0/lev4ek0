@@ -33,3 +33,6 @@
 [flask]: https://flask.palletsprojects.com/
 [linux]: https://www.linux.org/
 [nginx]: https://nginx.org/
+[celery]:https://celery.org/
+[docker]:https://docker.com/
+[redis]:https://redis.io/
