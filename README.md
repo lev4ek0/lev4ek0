@@ -13,7 +13,7 @@
 [<img aligh="left" alt="linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">][linux]
 [<img aligh="left" alt="nginx" width="40px" src="https://hsto.org/webt/el/jb/k_/eljbk_b0wl5x6tfkpa334zfvqvs.png">][nginx]
 [<img aligh="left" alt="docker" width="40px" src="https://avatars.githubusercontent.com/u/11618900?v=4">][docker]
-[<img aligh="left" alt="celery" width="40px" src="https://storage.caktusgroup.com/media/blog-images/celery-django-queue-caktus-group.jpg">][celery]
+[<img aligh="left" alt="celery" width="40px" src="https://livingmethod.files.wordpress.com/2016/11/celery_128.png">][celery]
 [<img aligh="left" alt="redis" width="40px" src="https://toppng.com/uploads/preview/redis-logo-11609374422bg2tijbhx4.png">][redis]
 
 
