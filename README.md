@@ -1,6 +1,6 @@
 # Hello, I'm Lev Belous
 
-### I'm backend python developer and 3rd year ITMO student
+### I'm backend python developer and 4th year ITMO student
 
 ---
 
@@ -23,7 +23,7 @@
 ### My contacts:
 
 [<img aligh="left" alt="Vk" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25684.png" />][vk]
-[<img aligh="left" alt="Telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670044.png?token=exp=1645459451~hmac=b88501ac728b9ff7ceffc08b4780e4a6" />][telegram]
+[<img aligh="left" alt="Telegram" width="40px" src="https://i.ibb.co/Sdsd8fj/pngegg.png" />][telegram]
 
 [vk]: https://vk.com/lev4ekr/
 [telegram]: https://t.me/lev4ek/
