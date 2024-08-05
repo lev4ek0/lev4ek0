@@ -1,6 +1,6 @@
 # Hello, I'm Lev Belous
 
-### I'm backend python developer and 4th year ITMO student
+### I'm backend python developer and ITMO graduate
 
 ---
 
